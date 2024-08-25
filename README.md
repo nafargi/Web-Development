@@ -4,8 +4,8 @@ Web Development Demo Pages collection<br><br>
 
 | Title | Code | Live Demo |
 | ----- | ---- | --------- |
-|Animated Crade Slider| [Code](https://github.com/nafargi/Web-Development-Projects/tree/main/Ethio-Historic%20Image%20Slider)| [Demo](https://ethiopicushistorian.netlify.app)|
-|Stopwatch| [Code](https://github.com/Husayn01/Stopwatch)| [Demo](https://stopwatch-husayn01.vercel.app/)|
+|Animated Crade Slider| [Code source](https://github.com/nafargi/Web-Development-Projects/tree/main/Ethio-Historic%20Image%20Slider)| [Demo](https://ethiopicushistorian.netlify.app)|
+|Stopwatch| [Code ](https://github.com/Husayn01/Stopwatch)| [Demo](https://stopwatch-husayn01.vercel.app/)|
 | Headings | [Headings](https://github.com/keshavgbpecdelhi/Web-Development/blob/master/html/types_of_headings.html) | [See headings](https://keshavgbpecdelhi.github.io/Web-Development/html/types_of_headings.html) |
 | Tables | [Table](https://github.com/keshavgbpecdelhi/Web-Development/blob/master/html/a_simple_table_in_html.html) | [See Table](https://keshavgbpecdelhi.github.io/Web-Development/html/a_simple_table_in_html.html) |
 | Basic Form | [Basic Form](https://github.com/keshavgbpecdelhi/Web-Development/blob/master/html/Basic_form.html) | [Tuition Form](https://keshavgbpecdelhi.github.io/Web-Development/html/Basic_form.html) |
